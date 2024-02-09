@@ -1,0 +1,34 @@
+|                                            |     num_examples |   num_words |   dataset_gb |   num_tokens |   avg_word |   avg_tokens |   ratio |
+|:-------------------------------------------|-----------------:|------------:|-------------:|-------------:|-----------:|-------------:|--------:|
+| Slimpajama627bTrainChunk6W0.jsonl.zstTrain |      5.9063e+06  | 4.01327e+09 |       23.338 |  6.73357e+09 |    679.49  |     1140.07  | 0.06652 |
+| Slimpajama627bTrainChunk6W0.jsonl.zstTest  |   9997           | 6.52643e+06 |        0.039 |  1.04213e+07 |    652.839 |     1042.44  | 0.00012 |
+| Slimpajama627bTrainChunk6W1.jsonl.zstTrain |      5.90637e+06 | 3.46764e+09 |       23.344 |  5.53364e+09 |    587.101 |      936.894 | 0.06654 |
+| Slimpajama627bTrainChunk6W1.jsonl.zstTest  |   9998           | 6.18393e+06 |        0.04  |  9.93966e+06 |    618.517 |      994.164 | 0.00012 |
+| Slimpajama627bTrainChunk6W2.jsonl.zstTrain |      5.90636e+06 | 3.8114e+09  |       23.408 |  6.34069e+09 |    645.303 |     1073.54  | 0.06672 |
+| Slimpajama627bTrainChunk6W2.jsonl.zstTest  |   9993           | 7.11986e+06 |        0.041 |  1.14727e+07 |    712.485 |     1148.07  | 0.00012 |
+| Slimpajama627bTrainChunk6W3.jsonl.zstTrain |      5.90628e+06 | 3.65608e+09 |       23.373 |  5.88906e+09 |    619.015 |      997.084 | 0.06662 |
+| Slimpajama627bTrainChunk6W3.jsonl.zstTest  |   9997           | 6.86979e+06 |        0.041 |  1.1092e+07  |    687.185 |     1109.53  | 0.00012 |
+| Slimpajama627bTrainChunk6W4.jsonl.zstTrain |      5.89864e+06 | 3.5816e+09  |       23.318 |  5.76424e+09 |    607.19  |      977.214 | 0.06646 |
+| Slimpajama627bTrainChunk6W4.jsonl.zstTest  |   9999           | 6.44701e+06 |        0.04  |  1.05289e+07 |    644.765 |     1053     | 0.00012 |
+| Slimpajama627bTrainChunk6W5.jsonl.zstTrain |      5.89633e+06 | 3.82517e+09 |       23.308 |  6.10819e+09 |    648.737 |     1035.93  | 0.06644 |
+| Slimpajama627bTrainChunk6W5.jsonl.zstTest  |   9997           | 7.50153e+06 |        0.04  |  1.22984e+07 |    750.378 |     1230.21  | 0.00012 |
+| Slimpajama627bTrainChunk6W6.jsonl.zstTrain |      5.89636e+06 | 3.91479e+09 |       23.368 |  6.19485e+09 |    663.933 |     1050.62  | 0.06662 |
+| Slimpajama627bTrainChunk6W6.jsonl.zstTest  |   9999           | 7.59082e+06 |        0.04  |  1.18971e+07 |    759.158 |     1189.83  | 0.00012 |
+| Slimpajama627bTrainChunk6W7.jsonl.zstTrain |      5.89635e+06 | 3.67694e+09 |       23.284 |  5.90474e+09 |    623.596 |     1001.42  | 0.06638 |
+| Slimpajama627bTrainChunk6W7.jsonl.zstTest  |   9996           | 6.66131e+06 |        0.039 |  1.08706e+07 |    666.397 |     1087.49  | 0.00012 |
+| Slimpajama627bTrainChunk6W8.jsonl.zstTrain |      5.89633e+06 | 3.93015e+09 |       23.298 |  6.33794e+09 |    666.542 |     1074.9   | 0.06642 |
+| Slimpajama627bTrainChunk6W8.jsonl.zstTest  |   9997           | 6.29136e+06 |        0.039 |  1.04944e+07 |    629.325 |     1049.75  | 0.00012 |
+| Slimpajama627bTrainChunk6W9.jsonl.zstTrain |      5.89634e+06 | 4.13615e+09 |       23.374 |  6.7532e+09  |    701.477 |     1145.32  | 0.06662 |
+| Slimpajama627bTrainChunk6W9.jsonl.zstTest  |   9997           | 7.12354e+06 |        0.04  |  1.128e+07   |    712.568 |     1128.34  | 0.00012 |
+| Slimpajama627bTrainChunk7W0.jsonl.zstTrain |      5.89608e+06 | 3.64354e+09 |       23.329 |  6.04046e+09 |    617.959 |     1024.49  | 0.0665  |
+| Slimpajama627bTrainChunk7W0.jsonl.zstTest  |   9994           | 6.18557e+06 |        0.038 |  9.84929e+06 |    618.928 |      985.52  | 0.0001  |
+| Slimpajama627bTrainChunk7W1.jsonl.zstTrain |      5.89619e+06 | 3.89308e+09 |       23.334 |  7.04551e+09 |    660.27  |     1194.93  | 0.06652 |
+| Slimpajama627bTrainChunk7W1.jsonl.zstTest  |   9992           | 6.54145e+06 |        0.04  |  1.04329e+07 |    654.669 |     1044.12  | 0.00012 |
+| Slimpajama627bTrainChunk7W2.jsonl.zstTrain |      5.89611e+06 | 3.49684e+09 |       23.271 |  5.6731e+09  |    593.076 |      962.176 | 0.06634 |
+| Slimpajama627bTrainChunk7W2.jsonl.zstTest  |   9995           | 6.70444e+06 |        0.039 |  1.0752e+07  |    670.78  |     1075.73  | 0.00012 |
+| Slimpajama627bTrainChunk7W3.jsonl.zstTrain |      5.8961e+06  | 3.49637e+09 |       23.267 |  5.81376e+09 |    592.998 |      986.035 | 0.06632 |
+| Slimpajama627bTrainChunk7W3.jsonl.zstTest  |   9999           | 6.5066e+06  |        0.04  |  1.06724e+07 |    650.725 |     1067.35  | 0.00012 |
+| Slimpajama627bTrainChunk7W4.jsonl.zstTrain |      5.89614e+06 | 4.03161e+09 |       23.3   |  6.62483e+09 |    683.771 |     1123.59  | 0.06642 |
+| Slimpajama627bTrainChunk7W4.jsonl.zstTest  |   9998           | 5.96897e+06 |        0.039 |  9.44327e+06 |    597.016 |      944.516 | 0.00012 |
+| Train                                      |      8.86362e+07 | 5.66748e+10 |      350.509 |  9.29192e+10 |    639.409 |     1048.32  | 0.99916 |
+| Test                                       | 149948           | 1.00223e+08 |        0.595 |  1.61445e+08 |    668.382 |     1076.67  | 0.0017  |
