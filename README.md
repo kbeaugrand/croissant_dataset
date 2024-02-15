@@ -27,7 +27,7 @@ Data redistributed here is subject to the original license under which it was co
 ```
 @misc{faysse2024croissantllm,
       title={CroissantLLM: A Truly Bilingual French-English Language Model}, 
-      author={Manuel Faysse and Patrick Fernandes and Nuno Guerreiro and António Loison and Duarte Alves and Caio Corro and Nicolas Boizard and João Alves and Ricardo Rei and Pedro Martins and Antoni Bigata Casademunt and François Yvon and André Martins and Gautier Viaud and Céline Hudelot and Pierre Colombo},
+      author={Manuel Faysse and Patrick Fernandes and Nuno M. Guerreiro and António Loison and Duarte M. Alves and Caio Corro and Nicolas Boizard and João Alves and Ricardo Rei and Pedro H. Martins and Antoni Bigata Casademunt and François Yvon and André F. T. Martins and Gautier Viaud and Céline Hudelot and Pierre Colombo},
       year={2024},
       eprint={2402.00786},
       archivePrefix={arXiv},
